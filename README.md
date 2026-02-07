@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Launching Hive, a centralized platform for university campus events.<br><br>👯 I’m looking to collaborate on: Anything involving Python, Hackathons, UI/UX design and much more.<br><br>🌱 I’m currently learning: Python, Java, and Algorithms.<br><br>⚡ Fun fact: I manage a fantasy cricket team called Taran Tranquils.<br><br>is this good?
+🔭 I’m currently working on: Launching Hive, a centralized platform for university campus events.<br><br>👯 I’m looking to collaborate on: Anything involving Python, Hackathons, UI/UX design and much more.<br><br>🌱 I’m currently learning: Python, Java, and Algorithms.<br><br>⚡ Fun fact: I manage a fantasy cricket team called Taran Tranquils.<br><br>
 
 
 ## 🌐 Socials:
